@@ -3,10 +3,11 @@ A production grade reference for `ICO` with `Stellar` (`XLM`)
 
 ### Retrospective for `SIX` ICO
 ## Pre
-- [ ] Why we accept `ETH` and `XLM`?
+- [ ] Why `SIX` accept both `ETH` and `XLM`?
 
 ## Body
 - [ ] How `ICO` development process look like for `ETH` vs `XLM`?
+- [ ] How `SIX` distribute token?
 
 ## Post
 - [ ] `ETH` pros, cons for `ICO`.
