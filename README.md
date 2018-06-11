@@ -3,7 +3,7 @@ A production grade reference for `ICO` with `Stellar` (`XLM`)
 
 ### Retrospective for `SIX` ICO
 ## Pre
-- [ ] Why we accept only `ETH` and `XLM`?
+- [ ] Why we accept `ETH` and `XLM`?
 
 ## Body
 - [ ] How `ICO` development process look like for `ETH` vs `XLM`?
@@ -13,5 +13,4 @@ A production grade reference for `ICO` with `Stellar` (`XLM`)
 - [ ] `XLM` pros, cons for `ICO`.
 
 ## Conclusion
-- [ ] What we like about `Stellar` (security, speed, efficiency, ...)
-- [ ] What we can do better?
+- [ ] `XLM` security, speed, reliability, ... compare to `ETH`
