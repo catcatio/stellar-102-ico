@@ -7,7 +7,7 @@ A production grade reference for `ICO` with `Stellar` (`XLM`)
 
 ## Body
 - [ ] How `ICO` development process look like for `ETH` vs `XLM`?
-- [ ] How `SIX` distribute token?
+- [ ] How `SIX` distribute token behind the scene?
 
 ## Post
 - [ ] `ETH` pros, cons for `ICO`.
